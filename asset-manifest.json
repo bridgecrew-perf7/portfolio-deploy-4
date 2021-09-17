@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-deploy/static/css/main.f6c2ab1a.chunk.css",
-    "main.js": "/portfolio-deploy/static/js/main.b534dd78.chunk.js",
-    "main.js.map": "/portfolio-deploy/static/js/main.b534dd78.chunk.js.map",
-    "runtime-main.js": "/portfolio-deploy/static/js/runtime-main.ed7dbbe4.js",
-    "runtime-main.js.map": "/portfolio-deploy/static/js/runtime-main.ed7dbbe4.js.map",
-    "static/js/2.983c5a59.chunk.js": "/portfolio-deploy/static/js/2.983c5a59.chunk.js",
-    "static/js/2.983c5a59.chunk.js.map": "/portfolio-deploy/static/js/2.983c5a59.chunk.js.map",
-    "index.html": "/portfolio-deploy/index.html",
-    "static/css/main.f6c2ab1a.chunk.css.map": "/portfolio-deploy/static/css/main.f6c2ab1a.chunk.css.map",
-    "static/js/2.983c5a59.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.983c5a59.chunk.js.LICENSE.txt"
+    "main.css": "/erendarici.rocks/static/css/main.f6c2ab1a.chunk.css",
+    "main.js": "/erendarici.rocks/static/js/main.b534dd78.chunk.js",
+    "main.js.map": "/erendarici.rocks/static/js/main.b534dd78.chunk.js.map",
+    "runtime-main.js": "/erendarici.rocks/static/js/runtime-main.454af3ce.js",
+    "runtime-main.js.map": "/erendarici.rocks/static/js/runtime-main.454af3ce.js.map",
+    "static/js/2.983c5a59.chunk.js": "/erendarici.rocks/static/js/2.983c5a59.chunk.js",
+    "static/js/2.983c5a59.chunk.js.map": "/erendarici.rocks/static/js/2.983c5a59.chunk.js.map",
+    "index.html": "/erendarici.rocks/index.html",
+    "static/css/main.f6c2ab1a.chunk.css.map": "/erendarici.rocks/static/css/main.f6c2ab1a.chunk.css.map",
+    "static/js/2.983c5a59.chunk.js.LICENSE.txt": "/erendarici.rocks/static/js/2.983c5a59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed7dbbe4.js",
+    "static/js/runtime-main.454af3ce.js",
     "static/js/2.983c5a59.chunk.js",
     "static/css/main.f6c2ab1a.chunk.css",
     "static/js/main.b534dd78.chunk.js"
