@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/erendarici.rocks/static/css/main.f6c2ab1a.chunk.css",
-    "main.js": "/erendarici.rocks/static/js/main.b534dd78.chunk.js",
-    "main.js.map": "/erendarici.rocks/static/js/main.b534dd78.chunk.js.map",
-    "runtime-main.js": "/erendarici.rocks/static/js/runtime-main.454af3ce.js",
-    "runtime-main.js.map": "/erendarici.rocks/static/js/runtime-main.454af3ce.js.map",
-    "static/js/2.983c5a59.chunk.js": "/erendarici.rocks/static/js/2.983c5a59.chunk.js",
-    "static/js/2.983c5a59.chunk.js.map": "/erendarici.rocks/static/js/2.983c5a59.chunk.js.map",
-    "index.html": "/erendarici.rocks/index.html",
-    "static/css/main.f6c2ab1a.chunk.css.map": "/erendarici.rocks/static/css/main.f6c2ab1a.chunk.css.map",
-    "static/js/2.983c5a59.chunk.js.LICENSE.txt": "/erendarici.rocks/static/js/2.983c5a59.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.f6c2ab1a.chunk.css",
+    "main.js": "/static/js/main.b534dd78.chunk.js",
+    "main.js.map": "/static/js/main.b534dd78.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e6e77e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e6e77e8.js.map",
+    "static/js/2.983c5a59.chunk.js": "/static/js/2.983c5a59.chunk.js",
+    "static/js/2.983c5a59.chunk.js.map": "/static/js/2.983c5a59.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f6c2ab1a.chunk.css.map": "/static/css/main.f6c2ab1a.chunk.css.map",
+    "static/js/2.983c5a59.chunk.js.LICENSE.txt": "/static/js/2.983c5a59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.454af3ce.js",
+    "static/js/runtime-main.8e6e77e8.js",
     "static/js/2.983c5a59.chunk.js",
     "static/css/main.f6c2ab1a.chunk.css",
     "static/js/main.b534dd78.chunk.js"
