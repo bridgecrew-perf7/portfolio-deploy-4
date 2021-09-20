@@ -1,0 +1,22 @@
+[
+    {
+        "id": "featured",
+        "title": "Featured"
+    },
+    {
+        "id": "ml",
+        "title": "Machine Learning"
+    },
+    {
+        "id": "frontend",
+        "title": "Frontend"
+    },
+    {
+        "id": "backend",
+        "title": "Backend"
+    },
+    {
+        "id": "game",
+        "title": "Game Design/Development"
+    }
+]
